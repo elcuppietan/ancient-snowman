@@ -10,7 +10,7 @@ Q - Quit\
 Space bar - Jump\
 S - Enter single-step animation mode\
 R - Resume animated mode\
-F - Toggle GL fog\
+F - Toggle GL fog
 
 
 ![](./snowman-screenshot.png)
