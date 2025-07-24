@@ -4,6 +4,7 @@
 //and decrement the angle and distance
 
 #include "camera.h"
+#include <Windows.h>
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <GL/glut.h>

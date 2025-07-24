@@ -1,5 +1,6 @@
 //Shannon Woods
 //Here is the class source for the snowman agent
+#include <Windows.h>
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <GL/glut.h>

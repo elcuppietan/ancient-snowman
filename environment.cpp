@@ -2,6 +2,7 @@
 //Environment .cpp file
 
 #include "environment.h"
+#include <windows.h>
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <GL/glut.h>
