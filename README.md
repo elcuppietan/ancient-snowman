@@ -12,6 +12,6 @@ S - Enter single-step animation mode\
 R - Resume animated mode\
 F - Toggle GL fog\
 
-<p align="center">
+
 ![](./snowman-screenshot.png)
-</p>
+
